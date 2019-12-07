@@ -25,7 +25,7 @@ The secret to Airtable's success, according to its CEO, [Howie Liu](https://www.
 Generally speaking, Airtable is a combination of spreadsheet and database on a colorful Excel-like or Google Form-like interface. 
 
 Nowadays Airtable is not only suitable for sizable corporations to manage different sorts of data and workflows, but also a friendly tool for small organizations and even individual users to conduct data management. 
-![Multiple functions could be achieved by Airtable](/blob/master/Image_1.png)
+![Multiple functions could be achieved by Airtable](blob/master/Image_1.png)
 
 ### A Friendly Tool
 Below are main features that I think are beneficial to small organizations and individual users whose collection is consisted of less than 1,200 items in each collection.
