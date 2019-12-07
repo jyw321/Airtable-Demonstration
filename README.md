@@ -13,7 +13,7 @@ I am going to use the audiovisual (AV) collection of a Hong Kong-based non-gover
 
 The data used for demonstration in this project is derived from hksmff’s home weblog – documentary films shown in their yearly film festival and screening schedules. I will use the film festival in 2014 as an example. I pick this year for some reasons: places of origin of the films are multiple, so that languages of films varied; special characters are included in film titles; some films are derived from film series. Due to the relative complexity of this year, I can demonstrate how to solve these problems on Airtable, which I believe, are also common problems encountered by small organizations. 
 
-The data of [hksmff] (https://smff2014.wordpress.com/film-event/) is open to the public, in both Chinese and English languages.
+The data of [hksmff](https://smff2014.wordpress.com/film-event/) is open to the public, in both Chinese and English languages.
 
 ### History of Airtable
 Airtable is an online collaboration service headquartered in San Francisco. It was founded in 2012 by Howie Liu, Andrew Ofstad, and Emmett Nicholas. On Airtable’s homepage, the team cheerfully express their mission is “to democratize software creation by enabling anyone to build the tools that meet their needs. Creators and creatives around the world use Airtable to do everything from cattle tracking to filmmaking”.
