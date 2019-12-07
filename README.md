@@ -1,16 +1,19 @@
 # Airtable_Exercise
 ## Intro to Airtable and Exercise Demonstration
-### Airtable for Small-Scale Moving Image Archives and Individuals - An example of hong kong social movement film festival
+### Airtable for Small-Scale Moving Image Collection - An example of hong kong social movement film festival
 
 This is also an assignment submitted to the CINE-GT 1808 Digital Literacy course, Fall 2019 NYU.
 Special thanks to Pamela Vizner's well-planned guidance in this course.
 
-In this project, I introduce a data management tool called Airtable, which is suitable for organizational or individual users. This is a tool remarkably friendly those people with little coding experience. This file serves as a historical background introduction of Airtable and a documentation of how to build a work base and how to maneuver a number of, in my opinion, most useful functions of Airtable to conduct data management, especially for audiovisual materials. In the GitHub repository, besides this step-by-step documentation, you will also find a raw inventory sheet and an Airtable work base sample. The basic idea here is, you can utilize the raw data to get familiarized with Airtable by following the steps in the documentation. In this process, you can have some knowledge on the pros and cons of the tool, so that in the future you can create your own work base.
+In this project, I introduce a data management tool called Airtable, which is suitable for organizational or individual users. This is a tool friendly those people with little coding experience. 
+
+In the GitHub repository, besides a step-by-step documentation, you will also find the raw inventory sheet based on which I did the Airtable exercise. The basic idea here is, you can utilize the raw data to get familiarized with Airtable by following the steps in the documentation. In this process, you can have some knowledge on the pros and cons of the tool, so that in the future you can create your own work base.
 
 I am going to use the audiovisual (AV) collection of a Hong Kong-based non-governmental organization (NGO) – hong kong social movement film festival (hksmff) , to demonstrate how a small organization or individual users can utilize Airtable to conduct systematic yet versatile collection management.
 
-The data used for demonstration in this project is derived from hksmff’s home weblog – documentary films shown in their yearly film festival and screening schedules. I will use the film festival in 2014 as an example. I pick this year for some reasons: places of origin of the films are multiple, so that languages of films varied; special characters are included in film titles; some films are derived from film series. Due to the relative complexity of this year, I can demonstrate how to solve these problems on Airtable, which I believe, are also common problems encountered by small organizations. The data of hksmff is open to the public, in both Chinese and English languages (https://smff2014.wordpress.com/film-event/).  
+The data used for demonstration in this project is derived from hksmff’s home weblog – documentary films shown in their yearly film festival and screening schedules. I will use the film festival in 2014 as an example. I pick this year for some reasons: places of origin of the films are multiple, so that languages of films varied; special characters are included in film titles; some films are derived from film series. Due to the relative complexity of this year, I can demonstrate how to solve these problems on Airtable, which I believe, are also common problems encountered by small organizations. 
 
+The data of [hksmff] (https://smff2014.wordpress.com/film-event/) is open to the public, in both Chinese and English languages.
 
 ### History of Airtable
 Airtable is an online collaboration service headquartered in San Francisco. It was founded in 2012 by Howie Liu, Andrew Ofstad, and Emmett Nicholas. On Airtable’s homepage, the team cheerfully express their mission is “to democratize software creation by enabling anyone to build the tools that meet their needs. Creators and creatives around the world use Airtable to do everything from cattle tracking to filmmaking”.
