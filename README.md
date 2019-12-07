@@ -23,6 +23,7 @@ By now, there are already more than 15 million work bases created on Airtable, a
 The secret to Airtable's success, according to its CEO, [Howie Liu](https://www.businessinsider.com/airtable-ceo-howie-liu-interview-on-52-million-in-funding-2018-3), is the fact that every cell of a spreadsheet can store anything, including photos and lists. “We think we can be what Windows was for personal computing,” he said. “We're confident we can be the Apple or Microsoft of the low-end-app space.”  
 
 Generally speaking, Airtable is a combination of spreadsheet and database on a colorful Excel-like or Google Form-like interface. 
+![colorful interface of Airtable](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_2.png)
 
 Nowadays Airtable is not only suitable for sizable corporations to manage different sorts of data and workflows, but also a friendly tool for small organizations and even individual users to conduct data management. 
 ![Multiple functions could be achieved by Airtable](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_1.png)
