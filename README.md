@@ -33,13 +33,13 @@ Below are main features that I think are beneficial to small organizations and i
 
 **Easy to register**: simply by linking your Google account with Airtable, an account is generated. No need to register a separate Airtable account.
 
-**Cloud-based interface**: users do not need to install any software to use Airtable. 
+**Cloud-based interface**: users do not need to install any software to use Airtable. Because of this cloud-based nature, every action is automatically saved even you forget to click the "save" button.
 
 **Technical requirement**: No coding experience from users is needed. The interface of Airtable is Excel or Google Form alike.
 
-**Low cost**: Even though Airtable is a proprietary service, for the free-trial version, Airtable does not limit the number of bases users can create. Each work base (I will explain later) is able to hold up to 1,200 items, with 2GB space for attachment. I think such capacity on a free-trial version is big enough for small organizations and individual users’ daily data management. The free version also enables 2-week’s revision history tracking. 
+**Low cost**: Even though Airtable is a proprietary service, for the free-trial version, Airtable does not limit the number of bases users can create. Each work base is able to hold up to 1,200 items, with 2GB space for attachment. I think such capacity on a free-trial version is big enough for small organizations and individual users’ daily data management. The free version also enables 2-week’s revision history tracking. 
 
-If you want to manage more than 1,200 records in one base, the monthly cost is US10/month (pay annually), allowing users to manage up to 5,000 records per base and 6-month history tracking. Under his paid plan, the space for attachment in each base will be increased to 5GB.	
+If you want to manage more than 1,200 records in one base, the monthly cost is US10/month (pay annually), allowing users to manage up to 5,000 records per base and 6-month history tracking. Under his paid plan, the space for attachment in each base will be increased to 5GB. See [princing plans](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_2.png)
 
 **Versatility of fields**: Each cell can accommodate contents of various types, including texts, numbers, option tabs, time duration, currency, percentage, images, and more. Here, for instance, the time duration function is tremendously practical for AV collections. By choosing the time duration format of your own (e.g. hh:mm:ss or hh:mm), Airtable could help you calculate the total duration time. This is a function that Excel or Google Form lacks. 
 
@@ -51,10 +51,10 @@ Data could be shown in Grid View, Form View or Gallery View, serving different k
 
 **Collaboration**: Like Google Form, Airtable allows multiple editors in the same base. 
 
-**Product support team and active community**: Airtable prepares a comprehensive support page for users to seek trouble solutions (https://support.airtable.com/hc/en-us). And an active user community is out there (https://community.airtable.com).
+**Product support team and active community**: Airtable prepares a comprehensive support page for users to seek [trouble solutions](https://support.airtable.com/hc/en-us). And an active [user community](https://community.airtable.com)is out there.
 
 **API**: Airtable provides API for users in need. JSON is the language of encoding. Standard HTTP codes are used to signal operational outputs. This is a function useful to small scale organizations especially memory institutions. From time to time, organizations may receive requests from users who hope to fetch the data in batch for research purpose.
 
 **Data security**: Transmission of information between users’ devices and Airtable servers is protected using 256-bit TLS encryption. At rest, Airtable encrypts data using AES-256. Airtable servers are located in the US, in data centers that are SOC 1, SOC 2 and ISO 27001 certified. Airtable’s data centers have round-the-clock security, automatic fire detection and suppression, fully redundant power systems, and strict controls for physical access. Airtable regularly installs security updates and patches to keep servers up to date. 
 
-Airtable utilizes industry-leading Amazon Web Services (AWS) hosting infrastructure. Backups are replicated across multiple availability zones for data durability. Airtable is fully compliant with the General Data Protection Regulation ("GDPR"). Airtable believes that “your data is your data”, and they have strived hard to protect them from being exposed and destroyed . That being said, data security is a key issue that organizations need to take into serious account when they apply Airtable to manage their data.  
+Airtable utilizes industry-leading Amazon Web Services (AWS) hosting infrastructure. Backups are replicated across multiple availability zones for data durability. Airtable is fully compliant with the General Data Protection Regulation ("GDPR"). Airtable believes that “your data is your data”, and they have strived hard to protect them from being exposed and destroyed . That being said, data security is a key issue that organizations need to take into serious account when they apply Airtable to manage their data. See [Data Security](https://airtable.com/security)
