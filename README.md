@@ -53,7 +53,7 @@ Data could be shown in Grid View, Form View or Gallery View, serving different k
 
 **Product support team and active community**: Airtable prepares a comprehensive support page for users to seek [trouble solutions](https://support.airtable.com/hc/en-us). And an active [user community](https://community.airtable.com)is out there.
 
-**API**: Airtable provides API for users in need. JSON is the language of encoding. Standard HTTP codes are used to signal operational outputs. This is a function useful to small scale organizations especially memory institutions. From time to time, organizations may receive requests from users who hope to fetch the data in batch for research purpose.
+**API**: Airtable provides [API](https://airtable.com/api) for users in need. JSON is the language of encoding. Standard HTTP codes are used to signal operational outputs. This is a function useful to small scale organizations especially memory institutions. From time to time, organizations may receive requests from users who hope to fetch the data in batch for research purpose.
 
 **Data security**: Transmission of information between users’ devices and Airtable servers is protected using 256-bit TLS encryption. At rest, Airtable encrypts data using AES-256. Airtable servers are located in the US, in data centers that are SOC 1, SOC 2 and ISO 27001 certified. Airtable’s data centers have round-the-clock security, automatic fire detection and suppression, fully redundant power systems, and strict controls for physical access. Airtable regularly installs security updates and patches to keep servers up to date. 
 
