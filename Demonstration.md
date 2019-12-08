@@ -85,7 +85,7 @@ Archivists sometimes face tables that are super wide because of the large number
 2. Click “Hide fields”, then click “Hide all”
 3. Turn the fields you want to view back on
 
-Furthermore, you can share with others a “view” of the table which contains only the fields you want to show. It is beneficial when you need to demonstrate only the basic information of your collection to external visitors.
+Furthermore, you can **share a “view” of the table** which contains only the fields you want to show. It is beneficial when you need to demonstrate only the basic information of your collection to external visitors.
 
 1. Based on the previous steps, now the table only shows a limited number of fields
 2. At the top right of the table, you will find a “…” icon. 
@@ -109,6 +109,32 @@ Furthermore, you can share with others a “view” of the table which contains 
 
 9. Click “Create a shareable grid view link”
 
-[Example](https://airtable.com/shr2z2rNzYjnNNYEQ)
+[Example of a limited view sharing](https://airtable.com/shr2z2rNzYjnNNYEQ)
 
+***
 
+You can also choose to **share your whole base**. You can invite collaborators through sending email invitation, and sharing a private link. If you only want to show the outcomes, you can also create a link that only shows the view-only work base.
+
+1. Click the oval “SHARE” button on the top right side
+2. Scroll down for the box “Create a shared link to the whole base”
+3. Click “Private read-only link”
+4. Choose how you would like your readers to edit or copy your data 
+5. You can also preview the shared link
+
+![Share whole base](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_15.png)
+
+***
+
+### Demonstration 4: Build relations between tables and records
+
+One of the highlights of Airtable is its convenience of building record relation, so that users do no need to shuffle from table to table to track a particular record. 
+
+To demonstrate this function, first I need set up a new table within the same base. I name this new table "Screening activity" I will start this table from scratch. This table documents the screening schedule of 2014 social movement film festival, and the data is originated from the hksmff [website](https://smff2014.wordpress.com/film-event/).
+
+1. Create a new table and name it “Screening activity” 
+
+![New table screening activity](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_16.png)
+
+2. Name the fields accordingly: Date, Screening film, Time, Venue, etc.
+
+3. Follow the steps in “Demonstration 2” and choose the appropriate nature for different fields. Here I set the “Date” field into “Date”, the “Time” field into “Single select” and the “Venue” field into “Single select”. 
