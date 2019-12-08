@@ -29,6 +29,8 @@ A common problem encountered by different archives is the multi-language embedde
 
 After language correction, we can proceed to refine the fields so that more functions could be executed. From here, we convert the nature of fields into different types. 
 
+***
+
 A powerful function of Airtable is the automatic calculation of time duration of multiple AV materials. Most of time, facing a large number of video materials which have different durations of time, archivists have difficulties to calculate the total duration of this collection. In Airtable, the “Duration” type of field can solve this problem. 
 
 1. Go to the “Duration” field	
@@ -135,6 +137,44 @@ To demonstrate this function, first I need set up a new table within the same ba
 
 ![New table screening activity](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_16.png)
 
-2. Name the fields accordingly: Date, Screening film, Time, Venue, etc.
+2. Name the fields accordingly: Date, Screening film, Time, Venue, etc. Here I also make some new fields up for demonstration
 
-3. Follow the steps in “Demonstration 2” and choose the appropriate nature for different fields. Here I set the “Date” field into “Date”, the “Time” field into “Single select” and the “Venue” field into “Single select”. 
+3. Follow the steps in [Demonstration 2](https://github.com/jyw321/Airtable_Exercise/blob/master/Demonstration.md#demonstration-2-edit-and-beautify-your-base) and choose the appropriate nature for different fields. Here I set the “Date” field into “Date”, the “Time” field into “Single select” and the “Venue” field into “Single select”. 
+
+4. The table could eventually look like this.
+
+![Draft new table](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_18.png)
+
+*Attention: you can write the text directly in the cells first and then convert the type of the field. Or you can first set the field type, name the options into different venues, and then in every cell, you simply “single select” the venue.* 
+
+![Name the options](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_17.png)
+
+***
+
+Now let’s set the type for the field “Screening films” to enable the relational function.
+
+1. Customize the field into “Link to another record”
+
+![Customize link to another record](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_19.png)
+
+2. Choose “2014 films” as the related table 
+
+![link to table](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_20.png)
+
+3. Now this field is linked to the table “2014 films”
+
+4. When you click each cell under the field “Screening films”, you will see a “+” icon. Click the “+” icon then you are allowed to select which film(s) will be shown on that date.
+
+5. By clicking the film in the “Screening films” cell, an expanded view will be shown. On this expanded view, you can look into the details of that film. You will also find a curve line on top of this expanded view, indicating the origin of the record.
+
+![link to records](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_21.png)
+
+6. You can create tables that collate information on human resource, equipment needs, and so on. Following the above steps, you can link the “Screening activity” to more tables and records.
+
+![create more tables](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_22.png)
+
+***
+
+
+
+4. When you click each cell under the field “Screening films”, you will see a “+” icon. Click the “+” icon then you are allowed to select which film(s) will be shown on that date.
