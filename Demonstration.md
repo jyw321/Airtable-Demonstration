@@ -11,7 +11,9 @@ Once you log in Airtable, you will see that Airtable has prepared some templates
 
 1.On the “My First Workspace” interface, click “Add a base”
 2.Choose “Import a spreadsheet”
-> *(remember to save your original spreadsheet as .csv file)* 
+
+*(remember to save your original spreadsheet as .csv file)* 
+
 3.Import the .csv file
 4.Name and choose the style of this base (pick any color and icon you like!)
 5.After the original .csv file is successfully imported, name the table “2014 films”
