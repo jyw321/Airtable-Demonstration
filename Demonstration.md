@@ -81,3 +81,34 @@ Taking advantage of the “Multiple select” function, I will convert more fiel
 
 Archivists sometimes face tables that are super wide because of the large number of fields. Instead of keep rolling the bars from left to right to view those at the tail, Airtable provides an easy-to-use function to serve this purpose.  
 
+1. On the top left side, there is a button called “Hide fields”
+2. Click “Hide fields”, then click “Hide all”
+3. Turn the fields you want to view back on
+
+Furthermore, you can share with others a “view” of the table which contains only the fields you want to show. It is beneficial when you need to demonstrate only the basic information of your collection to external visitors.
+
+1. Based on the previous steps, now the table only shows a limited number of fields
+2. At the top right of the table, you will find a “…” icon. 
+3. Click the “…” icon, choose “Duplicate view”
+
+![Duplicate view](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_12.png)
+
+4. Rename the view. I name this new view as “Limited View”
+
+![Rename view](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_13.png)
+
+5. At the top left of the table, choose the “Limited View”. Now you see your screen shows the table with limited fields only
+
+![Choose limited view](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_14.png)
+
+6. Click the oval “SHARE” button on the top right side of the table
+
+7. Scroll down for the box “Create a shared view link”
+
+8. Click “Share the current view”
+
+9. Click “Create a shareable grid view link”
+
+[Example](https://airtable.com/shr2z2rNzYjnNNYEQ)
+
+
