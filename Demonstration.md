@@ -20,6 +20,8 @@ Once you log in Airtable, you will see that Airtable has prepared some templates
 
 ![Name and stylish your base](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_6.png)
 
+***
+
 ### Demonstration 2. Edit and beautify your base
 
 A common problem encountered by different archives is the multi-language embedded in the materials. In this case, Chinese and English are both used in each item. A disadvantage of Airtable is that language other than English is not recognized by Airtable at first place. In this case, you will need to fill and edit the cells manually to correct the language.
@@ -41,6 +43,7 @@ A powerful function of Airtable is the automatic calculation of time duration of
 
 5. By clicking Save, you will see all the duration of time are converted to “real” duration of time. 
 6. At the bottom of this field, you will find a total duration of time. In this case, the total duration is 109 hours and 53 minutes.
+
 ***
 
 Another function which I find very useful is converting cells in which multiple values are included to a “multi-choice-like” appearance. This function largely facilitates you to group and filter the data based on different needs. 
@@ -51,12 +54,28 @@ Here I take the field “Place of origin” as an example.
 3. Choose “Customize field type”
 4. At the blue bar, choose “Multiple select” type 
 5. Immediately, you will see the places of origin are shown under the blue bar. These are the “multiple selections” automatically created by Airtable
-6. By clicking Save, you will see all the places of origin are converted to colorful tags
+6. By clicking Save, you will see all the places of origin are converted to colorful "tags"
 
 ![choose duration type](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_10.png)
 
 *Caution: In the .csv file, remember to use comma to separate multiple values in one cell, so that Airtable can recognize. This is because of the language Airtable uses -JSON.*
 
 ***
+
+The advantage of doing such conversion is for conducting grouping. Here I again take the place of origin as an example.
+
+1. Go to the “Place of origin” field
+2. Pull down the menu bars by clicking the arrow
+3. Choose “Group by this field”
+4. As a result, you will see films are organized by places of origin
+
+![choose duration type](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_11.png)
+
+Taking advantage of the “Multiple select” function, I will convert more fields into this type for more grouping options. For example, grouping by filmmaker, film series, language, subtitle, color mode, year of production, and so on is exceptionally useful to AV archives.
+
+*Caution: When applying the “Multiple select” function, chances are you would see “duplicated” tags. One very possible reason is that you or your collaborators mis-spelled words in one cell (e.g. in one cell, you spell Chinse instead of Chinese). Airtable would not automatically correct for your or merge those records. Instead, if you encounter this situation, you need to find out the mis-spelled word and correct it before applying the “Multiple selection” function to avoid duplicated but invalud tags.*
+
+***
+
 
 
