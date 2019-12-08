@@ -9,14 +9,14 @@ You can create your own account on Airtable, or you can simply use your Google a
 
 Once you log in Airtable, you will see that Airtable has prepared some templates for you to start with based on your own needs (refer back to Img. 1). But you can always start from scratch or import your own spreadsheet to kick off a work base. 
 
-1.On the “My First Workspace” interface, click “Add a base”
-2.Choose “Import a spreadsheet”
+1. On the “My First Workspace” interface, click “Add a base”
+2. Choose “Import a spreadsheet”
 
 *(remember to save your original spreadsheet as .csv file)* 
 
-3.Import the .csv file
-4.Name and choose the style of this base (pick any color and icon you like!)
-5.After the original .csv file is successfully imported, name the table “2014 films”
+3. Import the .csv file
+4. Name and choose the style of this base (pick any color and icon you like!)
+5. After the original .csv file is successfully imported, name the table “2014 films”
 ![Name and stylish your base](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_6.png)
 
 
