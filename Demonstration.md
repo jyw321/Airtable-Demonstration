@@ -2,6 +2,14 @@ In the following section, I will step by step demonstration how a small organiza
 
 In the repository, you will find the [2014_hksmff_basic_inventory](https://github.com/jyw321/Airtable_Exercise/blob/master/2014_hksmff_basic_inventory.csv) in a .csv file as the original raw file for Airtable importation. For the sake of demonstrating more functions, I changed some contents of the original records as shown on the hksmff website. At the end of this demonstration, you will find the link to the work base I created. 
 
+**Content**
+
+* [Demo 1: Get started](#Demonstration-1.-Start-an-account-and-import-your-own-spreadsheet)
+* [Demo 2: Beautify your work](#Demonstration-2.-Edit-and-beautify-your-base)
+* [Demo 3: Choose your view](#Documentation-3.-Choose-your-own-view)
+* [Demo 4: Build relations](#Demonstration-4:-Build-relations-between-tables-and-records)
+
+
 ### Demonstration 1. Start an account and import your own spreadsheet
 
 You can create your own account on Airtable, or you can simply use your Google account.
@@ -79,7 +87,7 @@ Taking advantage of the “Multiple select” function, I will convert more fiel
 
 ***
 
-### Documentation 3. Choose how to view
+### Documentation 3. Choose your own view
 
 Archivists sometimes face tables that are super wide because of the large number of fields. Instead of keep rolling the bars from left to right to view those at the tail, Airtable provides an easy-to-use function to serve this purpose.  
 
