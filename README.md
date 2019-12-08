@@ -3,7 +3,7 @@
 ### Airtable for Small-Scale Moving Image Collection - An example of hong kong social movement film festival
 
 *This is also an assignment submitted to the CINE-GT 1808 Digital Literacy course, Fall 2019 NYU.*
-*Special thanks to Pamela Vizner's well-planned guidance in this course.*
+*Special thanks to Pamela Vizner's dedicated guidance in this course.*
 
 **Content**
 * [History of Airtable](#History-of-Airtable)
