@@ -123,8 +123,6 @@ You can also choose to **share your whole base**. You can invite collaborators t
 4. Choose how you would like your readers to edit or copy your data 
 5. You can also preview the shared link
 
-![Share whole base](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_15.png)
-
 ***
 
 ### Demonstration 4: Build relations between tables and records
@@ -135,7 +133,7 @@ To demonstrate this function, first I need set up a new table within the same ba
 
 1. Create a new table and name it “Screening activity” 
 
-![New table screening activity](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_16.png)
+![New table screening activity](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_15.png)
 
 2. Name the fields accordingly: Date, Screening film, Time, Venue, etc. Here I also make some new fields up for demonstration
 
@@ -143,11 +141,11 @@ To demonstrate this function, first I need set up a new table within the same ba
 
 4. The table could eventually look like this.
 
-![Draft new table](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_18.png)
+![Draft new table](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_17.png)
 
 *Attention: you can write the text directly in the cells first and then convert the type of the field. Or you can first set the field type, name the options into different venues, and then in every cell, you simply “single select” the venue.* 
 
-![Name the options](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_17.png)
+![Name the options](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_16.png)
 
 ***
 
@@ -155,11 +153,11 @@ Now let’s set the type for the field “Screening films” to enable the relat
 
 1. Customize the field into “Link to another record”
 
-![Customize link to another record](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_19.png)
+![Customize link to another record](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_18.png)
 
 2. Choose “2014 films” as the related table 
 
-![link to table](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_20.png)
+![link to table](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_19.png)
 
 3. Now this field is linked to the table “2014 films”
 
@@ -167,14 +165,16 @@ Now let’s set the type for the field “Screening films” to enable the relat
 
 5. By clicking the film in the “Screening films” cell, an expanded view will be shown. On this expanded view, you can look into the details of that film. You will also find a curve line on top of this expanded view, indicating the origin of the record.
 
-![link to records](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_21.png)
+![link to records](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_20.png)
 
 6. You can create tables that collate information on human resource, equipment needs, and so on. Following the above steps, you can link the “Screening activity” to more tables and records.
 
-![create more tables](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_22.png)
+![create more tables](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_21.png)
 
 ***
 
+#### Now the work base looks cool, right? 
 
+#### Ready to build up your own work base?
 
-4. When you click each cell under the field “Screening films”, you will see a “+” icon. Click the “+” icon then you are allowed to select which film(s) will be shown on that date.
+**I share the Airtable “view” of the hksmff exercise base here for your reference. Anyone can view (but not edit) this base with [this read-only link](https://airtable.com/shrrZWNe9zmVwptK8)** 
