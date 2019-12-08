@@ -6,8 +6,8 @@ In the repository, you will find the [2014_hksmff_basic_inventory](https://githu
 
 * [Demo 1: Get started](#Demonstration-1.-Start-an-account-and-import-your-own-spreadsheet)
 * [Demo 2: Beautify your work](#Demonstration-2.-Edit-and-beautify-your-base)
-* [Demo 3: Choose your view](#Documentation-3.-Choose-your-own-view)
-* [Demo 4: Build relations](#Demonstration-4:-Build-relations-between-tables-and-records)
+* [Demo 3: Choose your view](#Demonstration-3.-Choose-your-own-view)
+* [Demo 4: Build relations](#Demonstration-4.-Build-relations-between-tables-and-records)
 
 
 ### Demonstration 1. Start an account and import your own spreadsheet
@@ -87,7 +87,7 @@ Taking advantage of the “Multiple select” function, I will convert more fiel
 
 ***
 
-### Documentation 3. Choose your own view
+### Demonstration 3. Choose your own view
 
 Archivists sometimes face tables that are super wide because of the large number of fields. Instead of keep rolling the bars from left to right to view those at the tail, Airtable provides an easy-to-use function to serve this purpose.  
 
@@ -133,7 +133,7 @@ You can also choose to **share your whole base**. You can invite collaborators t
 
 ***
 
-### Demonstration 4: Build relations between tables and records
+### Demonstration 4. Build relations between tables and records
 
 One of the highlights of Airtable is its convenience of building record relation, so that users do no need to shuffle from table to table to track a particular record. 
 
