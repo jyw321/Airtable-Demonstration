@@ -4,10 +4,10 @@ In the repository, you will find the [2014_hksmff_basic_inventory](https://githu
 
 **Content**
 
-* [Demo 1: Get started](#Demonstration-1.-Start-an-account-and-import-your-own-spreadsheet)
-* [Demo 2: Beautify your work](#Demonstration-2.-Edit-and-beautify-your-base)
-* [Demo 3: Choose your view](#Demonstration-3.-Choose-your-own-view)
-* [Demo 4: Build relations](#Demonstration-4.-Build-relations-between-tables-and-records)
+* [Demo 1: Get started](https://github.com/jyw321/Airtable_Exercise/blob/master/Demonstration.md#demonstration-1-start-an-account-and-import-your-own-spreadsheet)
+* [Demo 2: Beautify your work](https://github.com/jyw321/Airtable_Exercise/blob/master/Demonstration.md#Demonstration-2-Edit-and-beautify-your-base)
+* [Demo 3: Choose your view](https://github.com/jyw321/Airtable_Exercise/blob/master/Demonstration.md#Demonstration-3-Choose-your-own-view)
+* [Demo 4: Build relations](https://github.com/jyw321/Airtable_Exercise/blob/master/Demonstration.md#Demonstration-4-Build-relations-between-tables-and-records)
 
 
 ### Demonstration 1. Start an account and import your own spreadsheet
