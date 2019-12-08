@@ -2,8 +2,8 @@
 ## Intro to Airtable and Exercise Demonstration
 ### Airtable for Small-Scale Moving Image Collection - An example of hong kong social movement film festival
 
-This is also an assignment submitted to the CINE-GT 1808 Digital Literacy course, Fall 2019 NYU.
-Special thanks to Pamela Vizner's well-planned guidance in this course.
+*This is also an assignment submitted to the CINE-GT 1808 Digital Literacy course, Fall 2019 NYU.*
+*Special thanks to Pamela Vizner's well-planned guidance in this course.*
 
 In this project, I introduce a data management tool called Airtable, which is suitable for organizational or individual users. This is a tool friendly those people with little coding experience. 
 
@@ -58,3 +58,5 @@ Data could be shown in Grid View, Form View or Gallery View, serving different k
 **Data security**: Transmission of information between users’ devices and Airtable servers is protected using 256-bit TLS encryption. At rest, Airtable encrypts data using AES-256. Airtable servers are located in the US, in data centers that are SOC 1, SOC 2 and ISO 27001 certified. Airtable’s data centers have round-the-clock security, automatic fire detection and suppression, fully redundant power systems, and strict controls for physical access. Airtable regularly installs security updates and patches to keep servers up to date. 
 
 Airtable utilizes industry-leading Amazon Web Services (AWS) hosting infrastructure. Backups are replicated across multiple availability zones for data durability. Airtable is fully compliant with the General Data Protection Regulation ("GDPR"). Airtable believes that “your data is your data”, and they have strived hard to protect them from being exposed and destroyed . That being said, data security is a key issue that organizations need to take into serious account when they apply Airtable to manage their data. See [Data Security](https://airtable.com/security)
+
+### Now let's take a look at [some basic concepts](https://github.com/jyw321/Airtable_Exercise/blob/master/Some%20Basic%20Concepts%20of%20Airtable.md) that would help you get familiarized with Airtable.
