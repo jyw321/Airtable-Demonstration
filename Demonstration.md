@@ -77,5 +77,7 @@ Taking advantage of the “Multiple select” function, I will convert more fiel
 
 ***
 
+### Documentation 3. Choose how to view
 
+Archivists sometimes face tables that are super wide because of the large number of fields. Instead of keep rolling the bars from left to right to view those at the tail, Airtable provides an easy-to-use function to serve this purpose.  
 
