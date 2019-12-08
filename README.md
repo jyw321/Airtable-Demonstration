@@ -7,7 +7,7 @@
 
 In this project, I introduce a data management tool called Airtable, which is suitable for organizational or individual users. This is a tool friendly those people with little coding experience. 
 
-In the GitHub repository, besides a step-by-step documentation, you will also find the raw inventory sheet based on which I did the Airtable exercise. The basic idea here is, you can utilize the raw data to get familiarized with Airtable by following the steps in the documentation. In this process, you can have some knowledge on the pros and cons of the tool, so that in the future you can create your own work base.
+In the GitHub repository, besides a step-by-step [demonstration](https://github.com/jyw321/Airtable_Exercise/blob/master/Demonstration.md), you will also find the raw data [inventory sheet](https://github.com/jyw321/Airtable_Exercise/blob/master/2014_hksmff_basic_inventory.csv) based on which I did the Airtable exercise, and a document about [basic concepts](https://github.com/jyw321/Airtable_Exercise/blob/master/Some%20Basic%20Concepts%20of%20Airtable.md). **The goal of this project** is: you can utilize the raw data to get familiarized with Airtable by following the steps in the documentation. In this process, you can have some knowledge on the pros and cons of the tool, so that in the future you can create your own work base.
 
 I am going to use the audiovisual (AV) collection of a Hong Kong-based non-governmental organization (NGO) – hong kong social movement film festival (hksmff) , to demonstrate how a small organization or individual users can utilize Airtable to conduct systematic yet versatile collection management.
 
