@@ -17,6 +17,7 @@ Once you log in Airtable, you will see that Airtable has prepared some templates
 3. Import the .csv file
 4. Name and choose the style of this base (pick any color and icon you like!)
 5. After the original .csv file is successfully imported, name the table “2014 films”
+
 ![Name and stylish your base](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_6.png)
 
 ### Demonstration 2. Edit and beautify your base
@@ -31,9 +32,13 @@ A powerful function of Airtable is the automatic calculation of time duration of
 1. Go to the “Duration” field	
 2. Pull down the menu bars by clicking the arrow
 3. Choose “Customize field type”
+
 ![customize field](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_8.png)
+
 4. At the blue bar, choose “Duration” type and pick a format (e.g. h:mm)
+
 ![choose duration type](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_9.png)
+
 5. By clicking Save, you will see all the duration of time are converted to “real” duration of time. 
 6. At the bottom of this field, you will find a total duration of time. In this case, the total duration is 109 hours and 53 minutes.
 ***
@@ -47,11 +52,11 @@ Here I take the field “Place of origin” as an example.
 4. At the blue bar, choose “Multiple select” type 
 5. Immediately, you will see the places of origin are shown under the blue bar. These are the “multiple selections” automatically created by Airtable
 6. By clicking Save, you will see all the places of origin are converted to colorful tags
+
 ![choose duration type](https://github.com/jyw321/Airtable_Exercise/blob/master/Image_10.png)
 
 *Caution: In the .csv file, remember to use comma to separate multiple values in one cell, so that Airtable can recognize. This is because of the language Airtable uses -JSON.*
 
 ***
 
-*Caution: In the .csv file, remember to use comma to separate multiple values in one cell, so that Airtable can recognize. This is because of the language Airtable uses -JSON.**
-*Caution: In the .csv file, remember to use comma to separate multiple values in one cell, so that Airtable can recognize. This is because of the language Airtable uses -JSON.*
+
