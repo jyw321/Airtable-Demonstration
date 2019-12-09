@@ -65,4 +65,4 @@ Data could be shown in Grid View, Form View or Gallery View, serving different k
 
 Airtable utilizes industry-leading Amazon Web Services (AWS) hosting infrastructure. Backups are replicated across multiple availability zones for data durability. Airtable is fully compliant with the General Data Protection Regulation ("GDPR"). Airtable believes that “your data is your data”, and they have strived hard to protect them from being exposed and destroyed . That being said, data security is a key issue that organizations need to take into serious account when they apply Airtable to manage their data. See [Data Security](https://airtable.com/security)
 
-### Now let's take a look at some [basic concepts](https://github.com/jyw321/Airtable_Exercise/blob/master/Some%20Basic%20Concepts%20of%20Airtable.md) that would help you get familiarized with Airtable.
+### Now let's take a look at some [basic concepts](https://github.com/jyw321/Airtable-Demonstration/blob/master/Basic%20Concepts%20of%20Airtable.md) that would help you get familiarized with Airtable.
