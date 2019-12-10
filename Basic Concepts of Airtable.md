@@ -12,3 +12,5 @@ Airtable provides powerful ways to go back in time with record-level revision hi
 At first glance, you can understand them as “columns” in an Excel sheet. Unlike a spreadsheet, Airtable fields (columns) have specific "types" that allow you to store rich content in each record. 
 
 *(Notably, you can even insert photos, tables, hyperlinks and other objects into cells, simply by setting the type of the field as “Attachment”.)*
+
+*(Caution: Although you can always download the tables from Airtable and save them as .csv file, when the table contains elements other than text, for example, images, they will be shown as a hyperlink in the table cells instead of the actual images.)*
